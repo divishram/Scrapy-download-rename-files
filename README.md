@@ -2,9 +2,7 @@
 
 By default Scrapy uses the SHA1 Hash as the file name, and this can lead to confusion. I modified the pipelines so Scrapy would replace the file name with the title extracted with the XPath selector.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![](scrapy-crawl.gif)
 
 ### Prerequisites
 
