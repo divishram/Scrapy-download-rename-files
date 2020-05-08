@@ -35,9 +35,3 @@ Give an example
 ### And coding style tests
 
 Explain what these tests test and why
-
-```
-Give an example
-```
-
-E](https://rometools.github.io/rome/) - Used to generate RSS Feeds
