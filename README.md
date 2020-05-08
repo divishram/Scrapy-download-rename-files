@@ -17,4 +17,4 @@ pip install scrapy
 ```
 
 ### Usage
-![](downloaded_pics.JPG)
+![](media/downloaded_pics.JPG)
