@@ -2,7 +2,7 @@
 
 By default Scrapy uses the SHA1 Hash as the file name, and this can lead to confusion. I modified the pipelines so Scrapy would replace the file name with the title extracted with the XPath selector.
 
-![](scrapy-crawl.gif)
+![](media/scrapy-crawl.gif)
 
 ### Prerequisites
 
