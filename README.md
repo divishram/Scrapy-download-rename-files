@@ -9,8 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 ```
-* Python 3.5+
-* Scrapy 2.1.0
+-Python 3.5+
+—Scrapy 2.1.0
 ```
 
 ### Installing
