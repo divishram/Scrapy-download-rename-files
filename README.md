@@ -16,5 +16,12 @@ By default Scrapy uses the SHA1 Hash as the file name, and this can lead to conf
 pip install scrapy
 ```
 
+### Running Project
+```
+cd books_images
+scrapy crawl books
+```
+
+
 ### Usage
 ![](media/downloaded_pics.JPG)
